@@ -9,7 +9,7 @@ Currently works as an intern at MaximaTelecom.
 </a>
 
 ## My research projects:
-- [final qualifying work at the university]()
+- [final qualifying work at the university](https://github.com/juliazadorozhnaya/Final_graduate_work)
 - [project "Snow" in MaximaTelecom](https://github.com/juliazadorozhnaya/project_snow_maxima)
 - [bot-monitoring](https://github.com/juliazadorozhnaya/Monitoring_bot)
 
