@@ -12,6 +12,7 @@ Currently works as an intern at MaximaTelecom.
 - [final qualifying work at the university](https://github.com/juliazadorozhnaya/Final_graduate_work)
 - [project "Snow" in MaximaTelecom](https://github.com/juliazadorozhnaya/project_snow_maxima)
 - [bot-monitoring](https://github.com/juliazadorozhnaya/Monitoring_bot)
+- [gui for sniffers](https://github.com/juliazadorozhnaya/Sniffer_dev_Maxima)
 
 <!--
 **juliazadorozhnaya/juliazadorozhnaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
