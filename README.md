@@ -7,6 +7,7 @@ Currently works as an intern at MaximaTelecom.
 <a href="https://github.com/juliazadorozhnaya">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=juliazadorozhnaya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
 </a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=juliazadorozhnaya)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My research projects:
 - [final qualifying work at the university](https://github.com/juliazadorozhnaya/Final_graduate_work)
@@ -14,51 +15,11 @@ Currently works as an intern at MaximaTelecom.
 - [bot-monitoring](https://github.com/juliazadorozhnaya/Monitoring_bot)
 - [gui for sniffers in MaximaTelecom](https://github.com/juliazadorozhnaya/Sniffer_dev_Maxima)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juliazadorozhnaya)](https://github.com/ryo-ma/github-profile-trophy)
-      
 
-uses: Platane/snk@v2
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: juliazadorozhnaya
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 <!--
 **juliazadorozhnaya/juliazadorozhnaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-uses: Platane/snk@v2
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 Here are some ideas to get you started:
 
