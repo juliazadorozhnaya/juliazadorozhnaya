@@ -4,12 +4,8 @@ My name is Julia Zadorozhnaya, I am a student of the Faculty of Computational Ma
 
 Currently works as an intern at MaximaTelecom.
 
-<a href="https://github.com/juliazadorozhnaya">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=juliazadorozhnaya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-</a>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliazadorozhnaya)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## My research projects:
 - [final qualifying work at the university](https://github.com/juliazadorozhnaya/Final_graduate_work)
