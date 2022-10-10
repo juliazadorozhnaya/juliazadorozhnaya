@@ -9,7 +9,7 @@ Currently works as an intern at MaximaTelecom.
 </a>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juliazadorozhnaya)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliazadorozhnaya)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My research projects:
 - [final qualifying work at the university](https://github.com/juliazadorozhnaya/Final_graduate_work)
