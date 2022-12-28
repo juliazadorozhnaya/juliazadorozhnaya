@@ -4,7 +4,17 @@ My name is Julia Zadorozhnaya, I am a student of the Faculty of Computational Ma
 
 Currently works as an intern at MaximaTelecom.
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juliazadorozhnaya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliazadorozhnaya&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> 
+![GitHub stats](https://raw.githubusercontent.com/juliazadorozhnaya/juliazadorozhnaya/output/github-stats.svg#gh-light-mode-only)
+![GitHub stats](https://raw.githubusercontent.com/juliazadorozhnaya/juliazadorozhnaya/output/github-stats-dark.svg#gh-dark-mode-only)
+
+_generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
+
+----
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/juliazadorozhnaya/juliazadorozhnaya/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/juliazadorozhnaya/juliazadorozhnaya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ## My research projects:
 - [final qualifying work at the university](https://github.com/juliazadorozhnaya/Final_graduate_work)
