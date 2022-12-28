@@ -4,8 +4,8 @@ My name is Julia Zadorozhnaya, I am a student of the Faculty of Computational Ma
 
 Currently works as an intern at MaximaTelecom.
 
-![GitHub stats](https://raw.githubusercontent.com/juliazadorozhnaya/juliazadorozhnaya/output/github-stats.svg#gh-light-mode-only)
-![GitHub stats](https://raw.githubusercontent.com/juliazadorozhnaya/juliazadorozhnaya/output/github-stats-dark.svg#gh-dark-mode-only)
+![GitHub stats](https://raw.githubusercontent.com/juliazadorozhnaya/output/github-stats.svg#gh-light-mode-only)
+![GitHub stats](https://raw.githubusercontent.com/juliazadorozhnaya/output/github-stats-dark.svg#gh-dark-mode-only)
 
 _generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
