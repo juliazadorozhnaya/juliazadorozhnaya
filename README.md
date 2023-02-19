@@ -15,7 +15,7 @@
 ### About me
 - 🌱 I’m currently learning Backend Developing on Go
 - 📝 I am a student of the Faculty of Computational Mathematics and Cybernetics of Moscow State University, Faculty of Computer Systems and Automation
-- 📄 Know about my experiences [CV](git@github.com:juliazadorozhnaya/CV.git)
+- 📄 Know about my experiences [CV](https://github.com/juliazadorozhnaya/CV)
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:j.zadorozhnaya2707@gmail.com)
 - 👩‍💻 Currently works as an intern at MaximaTelecom.
 
