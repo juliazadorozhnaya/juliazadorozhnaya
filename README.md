@@ -19,4 +19,12 @@
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:j.zadorozhnaya2707@gmail.com)
 - 👩‍💻 Currently works as an intern at MaximaTelecom.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliazadorozhnaya&theme=github_dark)
+### My stat
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliazadorozhnaya&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juliazadorozhnaya&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliazadorozhnaya&theme=github_dark"/>
+</div>
+
+### [Snake game from github user contributions graph](https://github.com/Platane/snk) - [Platane](https://github.com/Platane/) 
+![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
