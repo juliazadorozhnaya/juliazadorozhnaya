@@ -19,9 +19,4 @@
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:j.zadorozhnaya2707@gmail.com)
 - 👩‍💻 Currently works as an intern at MaximaTelecom.
 
-
-## My research projects:
-- [final qualifying work at the university](https://github.com/juliazadorozhnaya/Final_graduate_work)
-- [project "Snow" in MaximaTelecom](https://github.com/juliazadorozhnaya/project_snow_maxima)
-- [bot-monitoring](https://github.com/juliazadorozhnaya/Monitoring_bot)
-- [gui for sniffers in MaximaTelecom](https://github.com/juliazadorozhnaya/Sniffer_dev_Maxima)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliazadorozhnaya&theme=github_dark)
