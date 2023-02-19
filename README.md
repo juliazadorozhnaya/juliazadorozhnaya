@@ -1,3 +1,12 @@
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/y_zadorozhnaya">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
 ### Hi there 👋
 
 My name is Julia Zadorozhnaya, I am a student of the Faculty of Computational Mathematics and Cybernetics of Moscow State University, Faculty of Computer Systems and Automation. Scientific adviser - Pashkov V.N. 
