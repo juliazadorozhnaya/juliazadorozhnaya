@@ -10,6 +10,8 @@
   <a href="https://t.me/y_zadorozhnaya">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a![https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all](https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all)>
+  </a>
 </div>
 
 ### About me
@@ -22,6 +24,4 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliazadorozhnaya&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juliazadorozhnaya&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliazadorozhnaya&theme=github_dark"/>
-	![https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all](https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all)
 </div>
-
