@@ -11,12 +11,12 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </div>
 
-![https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all](https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all)
-
 ### About me
 - 🌱 I’m currently learning Backend Developing on Go
 - 📝 I am a student of the Faculty of Computational Mathematics and Cybernetics of Moscow State University, Faculty of Information Security
 - 👩‍💻 Currently works as a backend developer at MaximaTelecom.
+
+![https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all](https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all)
 
 ### My stat
 <div id="stat" align="center">
