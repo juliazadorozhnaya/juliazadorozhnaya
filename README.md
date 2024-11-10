@@ -12,7 +12,7 @@
 </div>
 
 ### About me
-- 🌱 I am currently specializing in Backend Development with Go
+- 🌱 I’m a software engineer specializing in Go for backend development.
 - 📝 I am a master's student at the Faculty of Computational Mathematics and Cybernetics at Moscow State University, specializing in Information Security
 
 ![https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all](https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all)
