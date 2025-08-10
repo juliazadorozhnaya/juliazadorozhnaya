@@ -12,8 +12,8 @@
 </div>
 
 ### About me
-- 🌱 I’m a software engineer specializing in Go for backend development.
-- 📝 I am a master's student at the Faculty of Computational Mathematics and Cybernetics at Moscow State University, specializing in Information Security
+- 🌱 I’m a backend developer specializing in Go.
+- 🎓 I have a Master’s in Computer Science from Lomonosov Moscow State University.
 
 ![https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all](https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all)
 
