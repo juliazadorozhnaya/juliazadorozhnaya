@@ -12,7 +12,7 @@
 </div>
 
 ### About me
-- 🌱 I’m a software engineer.
+- 🌱 I’m a software engineer specializing in Go backend development.
 - 🎓 I have a Master’s in Computer Science from Lomonosov Moscow State University.
 
 ![https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all](https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all)
