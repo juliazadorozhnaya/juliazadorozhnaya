@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Hi there 👋, I'm Yuliya</h1>
-	<h3>Backend Developer</h3>
+	<h3> Software Engineer </h3>
 </div>
 
 <div id="badges">
@@ -12,7 +12,7 @@
 </div>
 
 ### About me
-- 🌱 I’m a backend developer specializing in Go.
+- 🌱 I’m a software engineer.
 - 🎓 I have a Master’s in Computer Science from Lomonosov Moscow State University.
 
 ![https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all](https://badges.peiyuan.ch/leetcode/juliazadorozhnaya/solved?difficulty=all)
